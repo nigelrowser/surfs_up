@@ -2,6 +2,6 @@
 
 #### Resources/ Languages 
 * Jupyter Notebook
-###### VS Code
-###### SQL Lite
-###### Python (pandas, numpy)
+* VS Code
+* SQL Lite
+* Python (pandas, numpy)
