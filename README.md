@@ -1,12 +1,12 @@
-# Surfs_Up Overview
+## Surfs_Up Overview
 
-# Results
+## Results
 
-# Summary
+## Summary
 
 ##### Resources/ Languages 
-** Jupyter Notebook
-** VS Code
-** SQLite
-** SQL Alchemy
-** Python (pandas, numpy)
+* Jupyter Notebook
+* VS Code
+* SQLite
+* SQL Alchemy
+* Python (pandas, numpy)
